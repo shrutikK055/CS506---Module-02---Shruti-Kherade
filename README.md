@@ -1,1 +1,1 @@
-# CS624---Module-02---Shruti-Kherade
+# CS506---Module-02---Shruti-Kherade
